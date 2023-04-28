@@ -1,6 +1,6 @@
-body {background-color: blue;}
+body {background-color: rgb(241, 241, 241);}
 h1 {
     color: navy;
     margin-left: 20px;
   }
-text {text-decoration-color: azure;}
+text {text-decoration-color: rgb(21, 22, 22);}
